@@ -12,6 +12,9 @@ def find_max_normal(lst):
             max_val = lst[i]
     return max_val
 
+# Hi.. This is Afaf
+print("Hi.. This is Afaf")
+
 # Python Optimal Way - Built-in function
 def find_max_optimal(lst):
     return max(lst) if lst else None
